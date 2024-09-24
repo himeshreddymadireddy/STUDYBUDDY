@@ -1,2 +1,2 @@
 ## STUDYBUDDY
-A new page for web students
+ A new page for web students
