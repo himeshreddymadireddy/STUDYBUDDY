@@ -1,2 +1,2 @@
 ## STUDYBUDDY
- A new page for web students
+ A new page for web students in which we will upload pyqs etc...
